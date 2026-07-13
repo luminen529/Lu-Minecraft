@@ -88,6 +88,6 @@ src/
 └── style.css      # 게임 UI 스타일
 ```
 
-## 배포
+---
 
-`.github/workflows/deploy.yml`은 `main` 브랜치에 변경 사항이 푸시되면 테스트와 프로덕션 빌드를 실행한 뒤 결과물을 GitHub Pages에 배포합니다. 저장소의 **Settings → Pages → Source**가 **GitHub Actions**로 설정되어 있어야 합니다.
+본 프로젝트는 Codex를 활용해 제작되었습니다.
